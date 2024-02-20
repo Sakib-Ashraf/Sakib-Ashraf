@@ -7,7 +7,7 @@
  
  
 - 🖥 Currently working as a **Full Stack Web Developer at Aiva Labs**
-- 😎 Things i love : **Music, Books, Psychology, Animals, Comics, Movie, Travel, Exploring new challanges or may be the Diffie Hellman😛.**
+- 😎 Things I love: **Music, Books, Psychology, Animals, Comics, Movie, Travel, Exploring new challenges or maybe the Diffie Hellman😛.**
 - 🌏 Website: https://sayedashrafulislamsakib.tk
 
 
